@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Malindu Wijesekara 👋</h1>
+<h1 align="center">Hey there! I'm Malindu Prabod 👋</h1>
 
 <p align="center">
   <a href="https://github.com/malinduwmp">
@@ -6,16 +6,16 @@
   </a>
 </p>
 
-<!-- Add an animated image below the typing effect -->
+<!-- Replaced with a smaller image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="500" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Animation" width="300" />
 </p>
 
 ---
 
 ### 🌍 About Me
 
-- 🔭 I'm currently working on projects utilizing **React Native** and **PHP**.
+- 🔭 I'm currently working on projects utilizing **React Native** and **JAVA**.
 - 🛠️ Exploring **mobile app development** and **web-based admin panels**.
 - 🌱 Always learning and improving my skills in **front-end** and **back-end** technologies.
 - 🌟 Founder of **Ravana Adventure Park**, where adventure meets nature!
@@ -30,7 +30,6 @@
   <a href="https://malinduwmp.github.io/Savindu-Yasara.portfolio/"><img src="https://img.shields.io/badge/Portfolio-%231E90FF.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/malinduwmp/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <!-- Add visitor count -->
   <img src="https://komarev.com/ghpvc/?username=malinduwmp&color=blue&style=flat-square&label=Visitors" alt="Visitor Count" />
 </p>
 
@@ -48,6 +47,8 @@
   <img src="https://img.shields.io/badge/Semantic_UI-%23000000.svg?style=for-the-badge&logo=semantic-ui-react&logoColor=white" alt="Semantic UI">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Hibernate-%233D348B.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
   <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
@@ -55,15 +56,17 @@
 
 ---
 
-### 🏞️ My Adventure Side
+### 🏞️ My Adventure Journey
 
-Besides my coding passion, I'm an outdoor enthusiast. I run **Ravana Adventure Park**, offering:
-- 🌲 **6km Jungle Trekking**
-- 💦 **Rock Sliding**
-- 🤸‍♂️ **Ladder Jump**
-- 💪 **20m Confidence Jump**
+In addition to coding, I’m an expert in outdoor adventure sports! As the GM & Adventure Specialist of **Ravana Adventure Park**, I specialize in:
+- 🌲 **Jungle Trekking**
+- 🏞️ **Waterfall Abseiling**
+- 🧗 **Rock Climbing**
+- 🚡 **Ziplining**
+- 💦 **Canyoning**
+- 🏕️ **Coaching** for adventure enthusiasts and explorers.
 
-When not coding, you'll find me challenging nature. Feel free to chat with me about **extreme sports** and **adventure tourism**!
+Feel free to reach out if you're passionate about **adventure sports** or are looking for an outdoor expert to **guide and coach** you!
 
 ---
 
