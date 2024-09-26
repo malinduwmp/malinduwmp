@@ -27,7 +27,7 @@
 ### 💼 Professional Journey
 
 <p align="center">
-  <a href="https://malinduwmp.github.io/Savindu-Yasara.portfolio/"><img src="https://img.shields.io/badge/Portfolio-%231E90FF.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://malinduwmp.github.io/"><img src="https://img.shields.io/badge/Portfolio-%231E90FF.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/malinduwmp/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://komarev.com/ghpvc/?username=malinduwmp&color=blue&style=flat-square&label=Visitors" alt="Visitor Count" />
@@ -85,7 +85,7 @@ Feel free to reach out if you're passionate about **adventure sports** or are lo
 
 ### 📫 Get in Touch!
 
-- 🖥️ [Portfolio](https://malinduwmp.github.io/Savindu-Yasara.portfolio/)
+- 🖥️ [Portfolio](https://malinduwmp.github.io/)
 - 📧 [Email](mailto:your.email@example.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/malinduwmp/)
 
