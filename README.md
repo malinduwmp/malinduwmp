@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Malindu Prabod 👋</h1>
+<h1 align="center">Hey there! I'm Malindu Prabod WM 👋</h1>
 
 <p align="center">
   <a href="https://github.com/malinduwmp">
@@ -69,17 +69,33 @@ In addition to coding, I’m an expert in outdoor adventure sports! As the GM & 
 Feel free to reach out if you're passionate about **adventure sports** or are looking for an outdoor expert to **guide and coach** you!
 
 ---
+---
 
-### 📈 GitHub Stats & Highlights
+### 📊 GitHub Analytics & Highlights
 
 <p align="center">
   <a href="https://github.com/malinduwmp">
-    <img src="https://github-readme-stats.vercel.app/api?username=malinduwmp&show_icons=true&theme=radical" alt="Malindu's GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=malinduwmp&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F" alt="Malindu's GitHub Stats" width="45%" />
   </a>
   <a href="https://github.com/malinduwmp">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=malinduwmp&theme=radical" alt="Malindu's GitHub Streak" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=malinduwmp&theme=react&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F" alt="GitHub Streak" width="45%" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/malinduwmp">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malinduwmp&theme=github_dark" alt="Profile Summary" width="60%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/malinduwmp">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=malinduwmp&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="90%" />
+  </a>
+</p>
+
+
+
 
 ---
 
