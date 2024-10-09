@@ -18,8 +18,8 @@
 - 🔭 I'm currently working on projects utilizing **React Native** and **JAVA**.
 - 🛠️ Exploring **mobile app development** and **web-based admin panels**.
 - 🌱 Always learning and improving my skills in **front-end** and **back-end** technologies.
-- 🌟 Founder of **Ravana Adventure Park**, where adventure meets nature!
-- 💼 Co-founder of **Pulasthi Ayurvedic Medical & Therapy Centre**, delivering natural healing and therapy.
+- 🌟 GM & Adventure Trainer  **Ravana Adventure Park**, where adventure meets nature!
+- 💼 GM of **Pulasthi Ayurvedic Medical & Therapy Centre**, delivering natural healing and therapy.
 - 💬 Ask me about **coding**, **outdoor adventures**, or **healthcare entrepreneurship**.
 
 ---
