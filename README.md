@@ -100,18 +100,31 @@ I’m always working on new adventures and projects! If you like what I do and w
 </a>
 
 ---
+### 📫 Connect with Me:
 
-### 📫 Connect With Me
-
-I love connecting with fellow developers, adventurers, and nature enthusiasts! Reach out via any of the links below:
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/malinduwmp)
-- 🐦 [Twitter](https://twitter.com/malinduwmp)
-- 📸 [Instagram](https://www.instagram.com/malinduwmp/)
-- 🎮 [GitHub](https://github.com/malinduwmp)
-- ✉️ malinduwmp@gmail.com
-
----
+<p align="center">
+  <a href="https://github.com/malinduwmp" target="blank">
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitHub.svg" alt="malinduwmp" height="50" width="50" />
+  </a>
+  <a href="https://www.linkedin.com/in/malinduwmp" target="blank">
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="malinduwmp" height="50" width="50" />
+  </a>
+  <a href="https://twitter.com/malinduwmp" target="blank">
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="malinduwmp" height="50" width="50" />
+  </a>
+  <a href="https://www.instagram.com/malinduwmp/" target="blank">
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-498425.png?f=webp&w=256" alt="malinduwmp" height="50" width="50" />
+  </a>
+  <a href="https://www.youtube.com/@malinduwmp?sub_confirmation=1" target="blank">
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-youtube-logo-icon-download-in-svg-png-gif-file-formats--social-media-video-square-pack-logos-icons-9343758.png?f=webp&w=256" alt="malinduwmp" height="50" width="50" />
+  </a>
+  <a href="https://discord.gg/malinduwmp" target="blank">
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="malinduwmp" height="50" width="50" />
+  </a>
+  <a href="mailto:malinduwmp@gmail.com" target="blank">
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Mail.svg" alt="malinduwmp" height="50" width="50" />
+  </a>
+</p>
 
 ### 🏅 Fun Facts
 
