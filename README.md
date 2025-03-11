@@ -137,7 +137,6 @@ I’m always working on new adventures and projects! If you like what I do and w
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=malinduwmp&show_icons=true&hide_border=true&theme=blueberry" alt="GitHub Stats" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malinduwmp&layout=compact&hide_border=true&theme=blueberry" alt="Top Languages" /> </div>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=malinduwmp&theme=blueberry&hide_border=true" alt="Wakatime Stats" /> </div>
 
 
 
