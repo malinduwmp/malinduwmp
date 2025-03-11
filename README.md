@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=70&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=29F7FF&height=70&section=header"/>
 <div align="center">
 </div>
 
@@ -141,5 +141,5 @@ I’m always working on new adventures and projects! If you like what I do and w
 
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=70&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=29F7FF&height=70&section=footer"/>
 </p>
