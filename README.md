@@ -121,8 +121,14 @@ I’m always working on new adventures and projects! If you like what I do and w
   <a href="https://discord.gg/malinduwmp" target="blank">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="malinduwmp" height="50" width="50" />
   </a>
-
+  <a href="mailto:malinduwmp@gmail.com" target="blank">
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Mail.svg" alt="malinduwmp" height="50" width="50" />
+  </a>
+  <a href="https://facebook.com/malinduwmp" target="blank">
+    <img align="center" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/facebook-2752192-2285009.png?f=webp&w=256" alt="malinduwmp" height="50" width="50" />
+  </a>
 </p>
+
 
 ### 🏅 Fun Facts
 
