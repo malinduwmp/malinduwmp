@@ -133,10 +133,6 @@ I’m always working on new adventures and projects! If you like what I do and w
 
 ---
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=malinduwmp&theme=algolia&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" /> </div>
-
-<div align="center"> <br/>  </div>
-
 
 
 
@@ -145,6 +141,8 @@ I’m always working on new adventures and projects! If you like what I do and w
 <div align="center">
   <p><img src="https://github-readme-stats.vercel.app/api?username=malinduwmp&show_icons=true&hide_border=true&theme=blueberry" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malinduwmp&layout=compact&hide_border=true&theme=blueberry" alt="Top Languages" /></p>
 </div>
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=malinduwmp&theme=algolia&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" /> </div>
 
 
 <p align="center">
