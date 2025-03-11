@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=70&section=header"/>
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshithamadumal&hide_border=true&theme=github_dark&card_width=1000" alt="Lakshitha Summary" /></p>
+
 </div>
 
 <h1 align="center">Hey there! I'm Malindu Prabod WM 👋</h1>
