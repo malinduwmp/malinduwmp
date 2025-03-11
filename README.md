@@ -143,7 +143,7 @@ I’m always working on new adventures and projects! If you like what I do and w
 [![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=malinduwmp&theme=github-compact&area=true&hide_border=true&title_color=FFFFFF&hide_title=true&point=FFFFFF&color=FFFFFF&height=500)](https://github.com/dulanjayabhanu?tab=repositories)
 
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api?username=malinduwmp&show_icons=true&hide_border=true&theme=blueberry" alt="GitHub Stats" /></p> <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malinduwmp&layout=compact&hide_border=true&theme=blueberry" alt="Top Languages" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=malinduwmp&show_icons=true&hide_border=true&theme=blueberry" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malinduwmp&layout=compact&hide_border=true&theme=blueberry" alt="Top Languages" /></p>
 </div>
 
 
