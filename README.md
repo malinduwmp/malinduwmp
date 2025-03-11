@@ -2,6 +2,17 @@
 <div align="center">
 </div>
 
+<p align="center">
+  <a href="https://github.com/malinduwmp">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=29F7FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Adventure+Specialist;Full-Stack+Developer+%7C+Tech+Explorer;Passionate+about+Code+and+Adventure!" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Animation" width="300" />
+</p>
+
+
 <h1 align="center">Hey there! I'm Malindu Prabod WM 👋</h1>
 
 
