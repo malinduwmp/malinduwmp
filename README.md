@@ -8,9 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Animation" width="300" />
-</p>
 
 
 <h1 align="center">Hey there! I'm Malindu Prabod WM 👋</h1>
