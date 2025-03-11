@@ -1,62 +1,78 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0072ff&height=80&section=header)
+<h1 align="center">Hey there! I'm Malindu Prabod WM 👋</h1>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malinduwmp&hide_border=true&theme=github_dark&card_width=1000" alt="Malindu's GitHub Stats" />
-</div>
+<p align="center">
+  <a href="https://github.com/malinduwmp">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=29F7FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Adventure+Specialist;Full-Stack+Developer+%7C+Tech+Explorer;Passionate+about+Code+and+Adventure!" alt="Typing SVG" />
+  </a>
+</p>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=malinduwmp&color=0072ff&style=flat" />
-  <img src="https://img.shields.io/github/followers/malinduwmp?label=Followers&color=0072ff" />
-  <img src="https://img.shields.io/github/stars/malinduwmp?label=Stars&color=0072ff" />
-  <img src="https://img.shields.io/badge/Open_source-Hell_Yeah-0072ff" />
-  <img src="https://img.shields.io/badge/Code%20Time-350%20hrs-blue" />
-</div>
+<!-- Replaced with a smaller image -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Animation" width="300" />
+</p>
 
 ---
 
-### 🚀 About Me
+### 🌍 About Me
 
-- 🔭 I’m currently working on [Shutter Plus](https://github.com/malinduwmp/ShutterPlus)
-- 🌱 I’m learning **Advanced React Native & Cloud Architecture**
-- 👯 Looking to collaborate on **Blaze Tuk Tuk & Smart Chat**
-- 💬 Ask me about **PHP, Java, React Native, MySQL**
-- 📫 Reach me at **malinduprabod.dev@gmail.com**
-- ⚡ Fun fact: **I automate everything—even my coffee brewing! ☕💻**
+- 🔭 I'm currently working on **Blaze Tours** and **Rakkithtakanda Temple website**.
+- 🛠️ Exploring **mobile app development** and **web-based admin panels**.
+- 🌱 Always learning and improving my skills in **front-end** and **back-end** technologies.
+- 🌟 GM & Adventure Trainer **Ravana Adventure Park**, where adventure meets nature!
+- 💼 GM of **Pulasthi Ayurvedic Medical & Therapy Centre**, delivering natural healing and therapy.
+- 💼 **System Administrator** at **Shipment2SriLanka**, managing shipment logistics and tech infrastructure.
+- 💬 Ask me about **coding**, **outdoor adventures**, or **healthcare entrepreneurship**.
 
 ---
 
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=php,java,react,js,html,css,bootstrap,mysql,sqlite,hibernate,nodejs,express,git,github,figma,photoshop,linux" alt="Tech Stack" />
 </p>
 
 ---
 
-### 📡 Connect With Me
+### ☕ Support My Work
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/malinduwmp/" target="blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="50" height="50" />
-  </a>
-  <a href="https://github.com/malinduwmp" target="blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="50" height="50" />
-  </a>
-  <a href="https://twitter.com/malinduprabod" target="blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" width="50" height="50" />
-  </a>
-  <a href="https://instagram.com/malindu.prabod" target="blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" width="50" height="50" />
+  <a href="https://www.buymeacoffee.com/MalinduWM">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
   </a>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0072ff&height=80&section=footer)
+---
+
+### 💼 Professional Journey
+
+<p align="center">
+  <a href="https://malinduwmp.github.io/"><img src="https://img.shields.io/badge/Portfolio-%231E90FF.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/malinduwmp/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://komarev.com/ghpvc/?username=malinduwmp&color=blue&style=flat-square&label=Visitors" alt="Visitor Count" />
+</p>
+
+---
+
+### 🏞️ My Adventure Journey
+
+In addition to coding, I’m an expert in outdoor adventure sports! As the GM & Adventure Specialist of **Ravana Adventure Park**, I specialize in:
+- 🌲 **Jungle Trekking**
+- 🏞️ **Waterfall Abseiling**
+- 🧗 **Rock Climbing**
+- 🚡 **Ziplining**
+- 💦 **Canyoning**
+- 🏕️ **Coaching** for adventure enthusiasts and explorers.
+
+Feel free to reach out if you're passionate about **adventure sports** or are looking for an outdoor expert to **guide and coach** you!
+
+---
+
+### 📫 Get in Touch!
+
+- 🖥️ [Portfolio](https://malinduwmp.github.io/)
+- 📧 [Email](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/malinduwmp/)
+- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/MalinduWM)
+
+Let's collaborate on something amazing! 😊
