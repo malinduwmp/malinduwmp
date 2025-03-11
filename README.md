@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0072ff&height=80&section=header)
+![Header]( img width=100% https://capsule-render.vercel.app/api?type=waving&color=0072ff&height=80&section=header)
 
 <div align="center">
 </div>
