@@ -138,9 +138,7 @@ I’m always working on new adventures and projects! If you like what I do and w
 - **Secret Talent**: Always up for a **spontaneous outdoor adventure**.
 
 ---
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=70&section=footer"/>
-</p>
+
 
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malinduwmp&hide_border=true&theme=github_dark&card_width=1000" alt="malinduwmp Summary" /></p>
