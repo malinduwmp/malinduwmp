@@ -135,7 +135,7 @@ I’m always working on new adventures and projects! If you like what I do and w
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=malinduwmp&theme=algolia&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" /> </div>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=malinduwmp&show_icons=true&hide_border=true&theme=blueberry" alt="GitHub Stats" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malinduwmp&layout=compact&hide_border=true&theme=blueberry" alt="Top Languages" /> </div>
+<div align="center"> <br/>  </div>
 
 
 
@@ -143,7 +143,7 @@ I’m always working on new adventures and projects! If you like what I do and w
 [![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=malinduwmp&theme=github-compact&area=true&hide_border=true&title_color=FFFFFF&hide_title=true&point=FFFFFF&color=FFFFFF&height=500)](https://github.com/dulanjayabhanu?tab=repositories)
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malinduwmp&hide_border=true&theme=github_dark&card_width=1000" alt="malinduwmp Summary" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=malinduwmp&show_icons=true&hide_border=true&theme=blueberry" alt="GitHub Stats" /></p> <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malinduwmp&layout=compact&hide_border=true&theme=blueberry" alt="Top Languages" /></p>
 </div>
 
 
