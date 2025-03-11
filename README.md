@@ -139,9 +139,8 @@ I’m always working on new adventures and projects! If you like what I do and w
 
 ---
 
-
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malinduwmp&hide_border=true&theme=github_dark&card_width=1000" alt="malinduwmp Summary" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dulanjayabhanu&hide_border=true&theme=github_dark&card_width=1000" alt="Dulanjaya Bhanu Summary" /></p>
 </div>
 
 [![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=malinduwmp&theme=github-compact&area=true&hide_border=true&title_color=FFFFFF&hide_title=true&point=FFFFFF&color=FFFFFF&height=500)](https://github.com/dulanjayabhanu?tab=repositories)
