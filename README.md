@@ -28,31 +28,49 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,java,react,js,html,css,bootstrap,mysql,sqlite,hibernate,nodejs,express,git,github,figma,photoshop,linux" alt="Tech Stack" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="angularjs" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="angularjs" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Light.svg" alt="angular" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="arduino" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="aws" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="babel" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" alt="blender" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webflow.svg" alt="cplusplus" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="django" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="docker" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="dotnet" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="firebase" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" alt="flutter" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cloudflare-Dark.svg" alt="gcp" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" alt="git" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="html5" width="50" height="50" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-adobe-photoshop-icon-download-in-svg-png-gif-file-formats--logo-ps-products-pack-design-development-icons-3516519.png?f=webp&w=256" alt="illustrator" width="50" height="50" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-adobe-illustrator-icon-download-in-svg-png-gif-file-formats--logo-ai-products-pack-design-development-icons-3516509.png?f=webp&w=256" alt="illustrator" width="50" height="50" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-adobe-lightroom-icon-download-in-svg-png-gif-file-formats--logo-lr-products-pack-design-development-icons-3516515.png?f=webp&w=256" alt="illustrator" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="invision" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" alt="invision" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" alt="invision" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" alt="kotlin" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="laravel" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="linux" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Dark.svg" alt="matlab" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mssql" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ReactiveX-Dark.svg" alt="nativescript" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="sass" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg" alt="xd" width="50" height="50" />
 </p>
 
 ---
 
-### ☕ Support My Work
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/MalinduWM">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
-  </a>
-</p>
-
----
-
-### 💼 Professional Journey
-
-<p align="center">
-  <a href="https://malinduwmp.github.io/"><img src="https://img.shields.io/badge/Portfolio-%231E90FF.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/malinduwmp/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://komarev.com/ghpvc/?username=malinduwmp&color=blue&style=flat-square&label=Visitors" alt="Visitor Count" />
-</p>
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=70&section=header"/>
 
 ### 🏞️ My Adventure Journey
 
@@ -64,15 +82,34 @@ In addition to coding, I’m an expert in outdoor adventure sports! As the GM & 
 - 💦 **Canyoning**
 - 🏕️ **Coaching** for adventure enthusiasts and explorers.
 
-Feel free to reach out if you're passionate about **adventure sports** or are looking for an outdoor expert to **guide and coach** you!
+Feel free to reach out if you're passionate about **adventure sports** or are looking for an outdoor expert to **guide and coach** your adventure teams!
 
 ---
 
-### 📫 Get in Touch!
+### 📫 Connect With Me
 
-- 🖥️ [Portfolio](https://malinduwmp.github.io/)
-- 📧 [Email](mailto:your.email@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/malinduwmp/)
-- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/MalinduWM)
+Feel free to reach out via the following links:
 
-Let's collaborate on something amazing! 😊
+- 💼 [LinkedIn](https://www.linkedin.com/in/malinduwmp)
+- 🐦 [Twitter](https://twitter.com/malinduwmp)
+- 📸 [Instagram](https://www.instagram.com/malinduwmp/)
+- 🎮 [GitHub](https://github.com/malinduwmp)
+- ✉️ malinduwmp@example.com
+
+---
+
+<!-- Badges Section -->
+<p align="center">
+  <a href="https://github.com/malinduwmp">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/malinduwmp?style=plastic&logo=GitHub&label=Follow">
+  </a>
+  <a href="https://www.linkedin.com/in/malinduwmp">
+    <img alt="LinkedIn followers" src="https://img.shields.io/badge/Follow%20me-on%20LinkedIn-0e76a8?logo=linkedin">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=70&section=footer"/>
+</p>
