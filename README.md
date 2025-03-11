@@ -4,6 +4,13 @@
 
 <h1 align="center">Hey there! I'm Malindu Prabod WM 👋</h1>
 
+
+<p align="center">
+  <a href="https://github.com/malinduwmp">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=29F7FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Adventure+Specialist;Full-Stack+Developer+%7C+Tech+Explorer;Passionate+about+Code+and+Adventure!" alt="Typing SVG" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/malinduwmp">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=29F7FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Adventure+Specialist;Full-Stack+Develo[...]
@@ -95,7 +102,7 @@ Adventure is at the heart of everything I do! Whether it's **coding** or **outdo
 I’m always working on new adventures and projects! If you like what I do and want to show your support, consider buying me a coffee ☕.
 
 <a href="https://buymeacoffee.com/MalinduWM" target="_blank">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=MalinduWM&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffff[...]
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=MalinduWM&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a coffee" />
 </a>
 
 ---
