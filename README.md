@@ -6,7 +6,6 @@
   </a>
 </p>
 
-<!-- Replaced with a smaller image -->
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Animation" width="300" />
 </p>
@@ -15,17 +14,24 @@
 
 ### 🌍 About Me
 
-- 🔭 I'm currently working on **Blaze Tours** and **Rakkithtakanda Temple website**.
-- 🛠️ Exploring **mobile app development** and **web-based admin panels**.
-- 🌱 Always learning and improving my skills in **front-end** and **back-end** technologies.
-- 🌟 GM & Adventure Trainer **Ravana Adventure Park**, where adventure meets nature!
-- 💼 GM of **Pulasthi Ayurvedic Medical & Therapy Centre**, delivering natural healing and therapy.
-- 💼 **System Administrator** at **Shipment2SriLanka**, managing shipment logistics and tech infrastructure.
-- 💬 Ask me about **coding**, **outdoor adventures**, or **healthcare entrepreneurship**.
+- 🔭 **Currently working** on **Blaze Tuk Tuk** and **Rakkithtakanda Temple** websites.
+- 🛠️ Passionate about **full-stack development** and building **mobile applications**.
+- 🌱 Exploring **adventure sports**, **coaching** for outdoor enthusiasts, and **nature-based business**.
+- 💼 **Associate System Administrator** at **Shipment2SriLanka**, handling **shipment logistics**.
+- 💬 Always up for a **chat** about coding, **adventures**, and **healthcare entrepreneurship**.
 
 ---
 
-### 🛠️ Languages & Tools
+### 🎨 My Creative Journey
+
+- 🚀 **Design & Development**: I love creating **beautiful, functional** user experiences with **React**, **Java**, **PHP**, and **JavaScript**. I combine **creativity** and **logic** to craft unique designs, while making sure everything works seamlessly.
+- 🖥️ **Tech Stack**: From **front-end** to **back-end**, I’m passionate about working with modern technologies like **React**, **Node.js**, **MySQL**, **PHP**, and **Flutter**.
+- 🌿 **Adventure Coaching**: When I’m not coding, I’m **coaching** others to **excel in adventurous activities** like **waterfall abseiling**, **trekking**, and **rock climbing**. **Nature** is my second home!
+
+---
+
+### 🛠️ Technologies & Tools
+
 
 <p align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="angularjs" width="50" height="50" />
@@ -67,28 +73,32 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="sass" width="50" height="50" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg" alt="xd" width="50" height="50" />
 </p>
-
 ---
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=70&section=header"/>
 
 ### 🏞️ My Adventure Journey
 
-In addition to coding, I’m an expert in outdoor adventure sports! As the GM & Adventure Specialist of **Ravana Adventure Park**, I specialize in:
-- 🌲 **Jungle Trekking**
-- 🏞️ **Waterfall Abseiling**
-- 🧗 **Rock Climbing**
-- 🚡 **Ziplining**
-- 💦 **Canyoning**
-- 🏕️ **Coaching** for adventure enthusiasts and explorers.
+Adventure is at the heart of everything I do! Whether it's **coding** or **outdoor activities**, I approach both with the same passion and drive to **explore** and **challenge myself**.
 
-Feel free to reach out if you're passionate about **adventure sports** or are looking for an outdoor expert to **guide and coach** your adventure teams!
+- 🌲 **Jungle Trekking**: Trek through challenging terrains, enjoying nature at its best.
+- 🧗 **Waterfall Abseiling**: Overcome heights while embracing the beauty of Sri Lanka's waterfalls.
+- 🚡 **Ziplining**: Thrill-seekers unite! Soar through forests and landscapes at high speeds.
+- 💦 **Canyoning**: Navigate through rocks and waterfalls, exploring hidden corners of nature.
+
+---
+
+### ☕ Support My Journey
+
+I’m always working on new adventures and projects! If you like what I do and want to show your support, consider buying me a coffee ☕.
+
+<a href="https://buymeacoffee.com/MalinduWM" target="_blank">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=MalinduWM&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a coffee" />
+</a>
 
 ---
 
 ### 📫 Connect With Me
 
-Feel free to reach out via the following links:
+I love connecting with fellow developers, adventurers, and nature enthusiasts! Reach out via any of the links below:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/malinduwmp)
 - 🐦 [Twitter](https://twitter.com/malinduwmp)
@@ -98,15 +108,12 @@ Feel free to reach out via the following links:
 
 ---
 
-<!-- Badges Section -->
-<p align="center">
-  <a href="https://github.com/malinduwmp">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/malinduwmp?style=plastic&logo=GitHub&label=Follow">
-  </a>
-  <a href="https://www.linkedin.com/in/malinduwmp">
-    <img alt="LinkedIn followers" src="https://img.shields.io/badge/Follow%20me-on%20LinkedIn-0e76a8?logo=linkedin">
-  </a>
-</p>
+### 🏅 Fun Facts
+
+- **Favorite Tech**: React & Node.js.
+- **Hobby**: **Adventure sports**, photography, and video editing.
+- **Top Skills**: Problem-solving, critical thinking, and creating intuitive UIs.
+- **Secret Talent**: Always up for a **spontaneous outdoor adventure**.
 
 ---
 
