@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/malinduwmp">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=29F7FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Adventure+Specialist;Full-Stack+Developer+%7C+Tech+Explorer;Passionate+about+Code+and+Adventure!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=29F7FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Adventure+Specialist;Full-Stack+Develo[...]
   </a>
 </p>
 
@@ -28,9 +28,9 @@
 
 ### 🎨 My Creative Journey
 
-- 🚀 **Design & Development**: I love creating **beautiful, functional** user experiences with **React**, **Java**, **PHP**, and **JavaScript**. I combine **creativity** and **logic** to craft unique designs, while making sure everything works seamlessly.
+- 🚀 **Design & Development**: I love creating **beautiful, functional** user experiences with **React**, **Java**, **PHP**, and **JavaScript**. I combine **creativity** and **logic** to craft uniqu[...]
 - 🖥️ **Tech Stack**: From **front-end** to **back-end**, I’m passionate about working with modern technologies like **React**, **Node.js**, **MySQL**, **PHP**, and **Flutter**.
-- 🌿 **Adventure Coaching**: When I’m not coding, I’m **coaching** others to **excel in adventurous activities** like **waterfall abseiling**, **trekking**, and **rock climbing**. **Nature** is my second home!
+- 🌿 **Adventure Coaching**: When I’m not coding, I’m **coaching** others to **excel in adventurous activities** like **waterfall abseiling**, **trekking**, and **rock climbing**. **Nature** is [...]
 
 ---
 
@@ -55,9 +55,9 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cloudflare-Dark.svg" alt="Cloudflare" width="50" height="50" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" alt="GitLab" width="50" height="50" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="50" height="50" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-adobe-photoshop-icon-download-in-svg-png-gif-file-formats--logo-ps-products-pack-design-development-icons-3516519.png?f=webp&w=256" alt="Photoshop" width="50" height="50" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-adobe-illustrator-icon-download-in-svg-png-gif-file-formats--logo-ai-products-pack-design-development-icons-3516509.png?f=webp&w=256" alt="Illustrator" width="50" height="50" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-adobe-lightroom-icon-download-in-svg-png-gif-file-formats--logo-lr-products-pack-design-development-icons-3516515.png?f=webp&w=256" alt="Lightroom" width="50" height="50" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-adobe-photoshop-icon-download-in-svg-png-gif-file-formats--logo-ps-products-pack-design-development-icons-3516519.png?f=webp&w=256" alt="Ph[...]
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-adobe-illustrator-icon-download-in-svg-png-gif-file-formats--logo-ai-products-pack-design-development-icons-3516509.png?f=webp&w=256" alt="[...]
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-adobe-lightroom-icon-download-in-svg-png-gif-file-formats--logo-lr-products-pack-design-development-icons-3516515.png?f=webp&w=256" alt="Li[...]
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VSCode" width="50" height="50" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" alt="PyCharm" width="50" height="50" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" alt="Wordpress" width="50" height="50" />
@@ -95,7 +95,7 @@ Adventure is at the heart of everything I do! Whether it's **coding** or **outdo
 I’m always working on new adventures and projects! If you like what I do and want to show your support, consider buying me a coffee ☕.
 
 <a href="https://buymeacoffee.com/MalinduWM" target="_blank">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=MalinduWM&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a coffee" />
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=MalinduWM&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffff[...]
 </a>
 
 ---
@@ -132,6 +132,17 @@ I’m always working on new adventures and projects! If you like what I do and w
 
 ---
 
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=70&section=footer"/>
+</p>
+
+<div align="center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dulanjayabhanu&hide_border=true&theme=github_dark&card_width=1000" alt="Dulanjaya Bhanu Summary" /></p>
+</div>
+
+[![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=dulanjayabhanu&theme=github-compact&area=true&hide_border=true&title_color=FFFFFF&hide_title=true&point=FFFFFF&color=FFFFFF&height=500)](https://github.com/dulanjayabhanu?tab=repositories)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=70&section=header"/>
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=70&section=footer"/>
 </p>
