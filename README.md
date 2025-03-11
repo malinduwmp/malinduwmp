@@ -1,4 +1,6 @@
-![Header]( img width=100% src= "https://capsule-render.vercel.app/api?type=waving&color=0072ff&height=80&section=header")
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0072ff&height=70&section=footer"/>
+</p>
 
 <div align="center">
 </div>
@@ -142,5 +144,5 @@ I’m always working on new adventures and projects! If you like what I do and w
 
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=29F7FF&height=70&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0072ff&height=70&section=footer"/>
 </p>
