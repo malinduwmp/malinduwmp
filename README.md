@@ -147,8 +147,6 @@ I’m always working on new adventures and projects! If you like what I do and w
   <img src="https://github-profile-trophy.vercel.app/?username=malinduwmp&theme=algolia&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="malinduwmp GitHub Trophies" />
 </div>
 
-
-![Batman Logo](https://upload.wikimedia.org/wikipedia/commons/0/0c/Batman_logo.svg)
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0072ff&height=70&section=footer"/>
 </p>
