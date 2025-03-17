@@ -3,6 +3,7 @@
 <div align="center">
 </div>
 
+<h1 align="center">Hey there! I'm Malindu Prabod WM 👋</h1>
 
 <p align="center">
   <a href="https://github.com/malinduwmp">
